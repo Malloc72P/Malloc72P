@@ -10,6 +10,8 @@
 - 안녕하세요! 프론트엔드 개발자 나승철입니다.
 - 현재 우리테크에서 프론트엔드 맵차트 라이브러리인 RealMap을 개발에 참여하고 있습니다.
 
+<!--
+
 ## 🔭 예전에 작업했던 프로젝트
 
 - 우리테크에서 기술지원 및 라이선스 발급 서비스인 support.realgrid.com 개발에 참여했습니다.
@@ -23,6 +25,7 @@
   - NextJS + NestJS 조합의 프로젝트이며 사용자 인증 기능이 미리 구현.
 - [Blog](https://github.com/Malloc72P/Blog): Nextra 기반의 SSG를 사용하는 블로그 프로젝트입니다.
   - 데이터베이스가 없는 구조이지만 게시글을 태그나 시리즈로 필터링하여 조회할 수 있는 기능 구현
+-->
 
 ## 🌱 현재 배우고 있는 것
 
@@ -52,4 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
