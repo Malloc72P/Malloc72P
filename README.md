@@ -30,7 +30,7 @@
 ## 🌱 현재 배우고 있는 것
 
 - Next.js와 Nest.js를 사용한 풀 스택 웹 개발
-- Playwrightdhk Github Actions를 통합하여 배포 전 회귀 테스트를 하는 방법
+- Playwright와 Github Actions를 통합하여 배포 전 회귀 테스트를 하는 방법
 - Vite를 사용하여 번들 크기를 최소화하여 프론트엔드 모듈을 개발하는 방법
 
 ## 📫 연락처
