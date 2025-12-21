@@ -1,8 +1,9 @@
 # 나승철(Na Seungchul)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Malloc72P&show_icons=true&theme=radical" />
+<a href="https://github.com/Malloc72P">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malloc72P&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malloc72P&layout=compact&theme=radical" />
-
 <br />
 
 ## 🔥 About Me
